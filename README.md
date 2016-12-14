@@ -1,4 +1,4 @@
-# Simple Title to SLUG Converter (ala GitHub README anchor links)
+# String Utilities Used at SkilStak 
 
 ```
 slug STRING
